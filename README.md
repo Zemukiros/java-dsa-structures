@@ -47,6 +47,24 @@ Developed a **Morse Code Converter** using a binary tree to translate Morse sequ
 **Key Concepts:** Binary Trees, Recursion, File Handling, Traversal Algorithms, JUnit Testing.  
 **Technologies:** Java, OOP, Tree Structures.
 
+
+### 5 Project  — Dictionary Builder (Hash Table Implementation)
+
+Developed a Dictionary Builder using a custom hash table with separate chaining to store, search, and manage words efficiently.
+Key Features:
+
+**Key Features:**  
+Built a HashTable class from scratch using linked-list chaining to handle collisions.
+
+Implemented insert(), delete(), and search() with average O(1) performance.
+
+Designed a DictionaryBuilder utility to load words from files and dynamically update the dictionary.
+
+Added deep copy and equality logic to ensure data integrity across nodes and chains.
+**Key Concepts:** Hash Tables, Separate Chaining, Generics, File I/O, OOP Design, and Recursion.
+**Technologies:** Java, Data Structures, Custom Collections.
+
+
 ---
 
 
